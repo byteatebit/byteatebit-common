@@ -1,0 +1,13 @@
+{
+  "sample1" : {
+    "name" : "sample config 1",
+    "description" : "This is a sample configuration"
+  },
+  "sample2" : {
+    "name" : "sample config 2",
+    "description" : "This is another sample configuration"
+  },
+  "minimal" : {
+  }
+
+}
